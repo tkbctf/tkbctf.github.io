@@ -98,3 +98,8 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+social:
+  title: Be social.
+  github: tkbctf
+  twitter: tkbctf
