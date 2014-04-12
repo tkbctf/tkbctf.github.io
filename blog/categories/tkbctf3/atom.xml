@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tkbctf3 | tkbctf]]></title>
+  <link href="http://tkbctf.github.io/blog/categories/tkbctf3/atom.xml" rel="self"/>
+  <link href="http://tkbctf.github.io/"/>
+  <updated>2014-04-13T04:39:42+09:00</updated>
+  <id>http://tkbctf.github.io/</id>
+  <author>
+    <name><![CDATA[tkbctf team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf3!]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon/"/>
+    <updated>2014-03-16T23:55:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon</id>
+    <content type="html"><![CDATA[<p><img src="/images/2014/03/3rd_logo.png" alt="tkbctf3 logo" /></p>
+
+<p>tkbctf3やります！</p>
+
+<p>5/4-5です。時間等は追って発表します。かみんぐすーん</p>
+]]></content>
+  </entry>
+  
+</feed>

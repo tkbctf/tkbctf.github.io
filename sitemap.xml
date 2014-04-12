@@ -1,16 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://tkbctf.github.io/blog/2013/04/website-opened/</loc>
+        <lastmod>2014-04-13T03:17:27+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/04/announce-first-contest/</loc>
+        <lastmod>2014-04-13T03:20:37+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/04/tkbctf1-registration-start/</loc>
+        <lastmod>2014-04-13T03:26:06+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/04/mailing-list-created/</loc>
+        <lastmod>2014-04-13T03:25:54+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/05/pptp-connection/</loc>
+        <lastmod>2014-04-13T03:27:38+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/05/tkbctf1-finished/</loc>
+        <lastmod>2014-04-13T03:31:41+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/05/tkbctf1-done/</loc>
+        <lastmod>2014-04-13T03:35:08+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank/</loc>
+        <lastmod>2014-04-13T04:21:51+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/07/tkbctf2-coming/</loc>
+        <lastmod>2014-04-13T04:24:46+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start/</loc>
+        <lastmod>2014-04-13T04:27:39+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon/</loc>
+        <lastmod>2014-04-13T04:32:01+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/09/tkbctf2-finished/</loc>
+        <lastmod>2014-04-13T04:31:41+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2013/09/tkbctf2-result/</loc>
+        <lastmod>2014-04-13T04:34:26+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon/</loc>
+        <lastmod>2014-04-13T04:38:17+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://tkbctf.github.io/blog/archives/</loc>
-        <lastmod>2014-04-13T01:15:36+09:00</lastmod>
+        <lastmod>2014-04-13T04:38:17+09:00</lastmod>
     </url>
     <url>
         <loc>http://tkbctf.github.io/blog/</loc>
-        <lastmod>2014-04-13T01:15:36+09:00</lastmod>
+        <lastmod>2014-04-13T04:38:17+09:00</lastmod>
     </url>
     <url>
         <loc>http://tkbctf.github.io/</loc>
-        <lastmod>2014-04-13T02:07:45+09:00</lastmod>
+        <lastmod>2014-04-13T04:38:17+09:00</lastmod>
     </url>
     <url>
         <loc>http://tkbctf.github.io/robots.txt</loc>

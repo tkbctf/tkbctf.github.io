@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tkbctf2 | tkbctf]]></title>
+  <link href="http://tkbctf.github.io/blog/categories/tkbctf2/atom.xml" rel="self"/>
+  <link href="http://tkbctf.github.io/"/>
+  <updated>2014-04-13T04:39:42+09:00</updated>
+  <id>http://tkbctf.github.io/</id>
+  <author>
+    <name><![CDATA[tkbctf team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 Result]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-result/"/>
+    <updated>2013-09-30T16:27:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-result</id>
+    <content type="html"><![CDATA[<p>秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。</p>
+
+<p>Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).</p>
+
+<h2>Individual</h2>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">#</th>
+<th style="text-align:left;">Name</th>
+<th style="text-align:left;">Team</th>
+<th style="text-align:left;">Point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">1</td>
+<td style="text-align:left;">kusano</td>
+<td style="text-align:left;">superflip</td>
+<td style="text-align:left;">950</td>
+</tr>
+<tr>
+<td style="text-align:left;">2</td>
+<td style="text-align:left;">ucq</td>
+<td style="text-align:left;">poppopret</td>
+<td style="text-align:left;">850</td>
+</tr>
+<tr>
+<td style="text-align:left;">3</td>
+<td style="text-align:left;">askn</td>
+<td style="text-align:left;">askn</td>
+<td style="text-align:left;">700</td>
+</tr>
+<tr>
+<td style="text-align:left;">4</td>
+<td style="text-align:left;">superbacker</td>
+<td style="text-align:left;">HappyBacking</td>
+<td style="text-align:left;">650</td>
+</tr>
+<tr>
+<td style="text-align:left;">5</td>
+<td style="text-align:left;">Rex</td>
+<td style="text-align:left;">necomimi</td>
+<td style="text-align:left;">600</td>
+</tr>
+<tr>
+<td style="text-align:left;">6</td>
+<td style="text-align:left;">DSharp</td>
+<td style="text-align:left;">dsharp</td>
+<td style="text-align:left;">550</td>
+</tr>
+<tr>
+<td style="text-align:left;">7</td>
+<td style="text-align:left;">TwilightSparkle</td>
+<td style="text-align:left;">mane6</td>
+<td style="text-align:left;">500</td>
+</tr>
+<tr>
+<td style="text-align:left;">8</td>
+<td style="text-align:left;">tyage</td>
+<td style="text-align:left;">EpsilonDelta</td>
+<td style="text-align:left;">500</td>
+</tr>
+<tr>
+<td style="text-align:left;">9</td>
+<td style="text-align:left;">__math</td>
+<td style="text-align:left;">__math</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">10</td>
+<td style="text-align:left;">lmt_swallow</td>
+<td style="text-align:left;">dodododo</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">11</td>
+<td style="text-align:left;">carme16d</td>
+<td style="text-align:left;">wasamusume</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">12</td>
+<td style="text-align:left;">bata_24</td>
+<td style="text-align:left;">bata_24</td>
+<td style="text-align:left;">350</td>
+</tr>
+<tr>
+<td style="text-align:left;">13</td>
+<td style="text-align:left;">bonprosoft</td>
+<td style="text-align:left;">aobayamanoSUSUME</td>
+<td style="text-align:left;">350</td>
+</tr>
+<tr>
+<td style="text-align:left;">14</td>
+<td style="text-align:left;">hiromu</td>
+<td style="text-align:left;">EpsilonDelta</td>
+<td style="text-align:left;">350</td>
+</tr>
+<tr>
+<td style="text-align:left;">15</td>
+<td style="text-align:left;">amasyougun</td>
+<td style="text-align:left;">CTF-UTOPIA</td>
+<td style="text-align:left;">250</td>
+</tr>
+<tr>
+<td style="text-align:left;">16</td>
+<td style="text-align:left;">gocard</td>
+<td style="text-align:left;">dodododo</td>
+<td style="text-align:left;">200</td>
+</tr>
+<tr>
+<td style="text-align:left;">17</td>
+<td style="text-align:left;">togakushi</td>
+<td style="text-align:left;">okudo3</td>
+<td style="text-align:left;">200</td>
+</tr>
+<tr>
+<td style="text-align:left;">18</td>
+<td style="text-align:left;">potetisensei</td>
+<td style="text-align:left;">EpsilonDelta</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">19</td>
+<td style="text-align:left;">Lay_ec</td>
+<td style="text-align:left;">GO TO THE FUTURE</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">20</td>
+<td style="text-align:left;">enoki</td>
+<td style="text-align:left;">kinoko</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">21</td>
+<td style="text-align:left;">akiym</td>
+<td style="text-align:left;">dodododo</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">22</td>
+<td style="text-align:left;">kino</td>
+<td style="text-align:left;">CTF-UTOPIA</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">23</td>
+<td style="text-align:left;">taka</td>
+<td style="text-align:left;">********</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">24</td>
+<td style="text-align:left;">shiracamus</td>
+<td style="text-align:left;">CTF-infinit</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">25</td>
+<td style="text-align:left;">mizunashi_mana</td>
+<td style="text-align:left;">hasegw</td>
+<td style="text-align:left;">120</td>
+</tr>
+<tr>
+<td style="text-align:left;">26</td>
+<td style="text-align:left;">cocu</td>
+<td style="text-align:left;">/dev/ohuton</td>
+<td style="text-align:left;">120</td>
+</tr>
+<tr>
+<td style="text-align:left;">27</td>
+<td style="text-align:left;">kira924age</td>
+<td style="text-align:left;">Sakityan</td>
+<td style="text-align:left;">120</td>
+</tr>
+<tr>
+<td style="text-align:left;">28</td>
+<td style="text-align:left;">vigov5</td>
+<td style="text-align:left;">just4funand2learn</td>
+<td style="text-align:left;">100</td>
+</tr>
+<tr>
+<td style="text-align:left;">29</td>
+<td style="text-align:left;">komekome09</td>
+<td style="text-align:left;">hasegw</td>
+<td style="text-align:left;">80</td>
+</tr>
+<tr>
+<td style="text-align:left;">30</td>
+<td style="text-align:left;">komakisen</td>
+<td style="text-align:left;">aobayamanoSUSUME</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">31</td>
+<td style="text-align:left;">waidotto</td>
+<td style="text-align:left;">y.</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">32</td>
+<td style="text-align:left;">mk_umbrella</td>
+<td style="text-align:left;">doublepush</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">33</td>
+<td style="text-align:left;">saltcandy123</td>
+<td style="text-align:left;">saltcandy123</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">34</td>
+<td style="text-align:left;">takanoko</td>
+<td style="text-align:left;">/dev/ohuton</td>
+<td style="text-align:left;">50</td>
+</tr>
+</tbody>
+</table>
+
+
+<h2>Team</h2>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">#</th>
+<th style="text-align:left;">Name</th>
+<th style="text-align:left;">Point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">1</td>
+<td style="text-align:left;">EpsilonDelta</td>
+<td style="text-align:left;">1000</td>
+</tr>
+<tr>
+<td style="text-align:left;">2</td>
+<td style="text-align:left;">superflip</td>
+<td style="text-align:left;">950</td>
+</tr>
+<tr>
+<td style="text-align:left;">3</td>
+<td style="text-align:left;">poppopret</td>
+<td style="text-align:left;">850</td>
+</tr>
+<tr>
+<td style="text-align:left;">4</td>
+<td style="text-align:left;">dodododo</td>
+<td style="text-align:left;">750</td>
+</tr>
+<tr>
+<td style="text-align:left;">5</td>
+<td style="text-align:left;">askn</td>
+<td style="text-align:left;">700</td>
+</tr>
+<tr>
+<td style="text-align:left;">6</td>
+<td style="text-align:left;">HappyBacking</td>
+<td style="text-align:left;">650</td>
+</tr>
+<tr>
+<td style="text-align:left;">7</td>
+<td style="text-align:left;">necomimi</td>
+<td style="text-align:left;">600</td>
+</tr>
+<tr>
+<td style="text-align:left;">8</td>
+<td style="text-align:left;">dsharp</td>
+<td style="text-align:left;">550</td>
+</tr>
+<tr>
+<td style="text-align:left;">9</td>
+<td style="text-align:left;">mane6</td>
+<td style="text-align:left;">500</td>
+</tr>
+<tr>
+<td style="text-align:left;">10</td>
+<td style="text-align:left;">CTF-UTOPIA</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">11</td>
+<td style="text-align:left;">aobayamanoSUSUME</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">12</td>
+<td style="text-align:left;">__math</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">13</td>
+<td style="text-align:left;">wasamusume</td>
+<td style="text-align:left;">400</td>
+</tr>
+<tr>
+<td style="text-align:left;">14</td>
+<td style="text-align:left;">bata_24</td>
+<td style="text-align:left;">350</td>
+</tr>
+<tr>
+<td style="text-align:left;">15</td>
+<td style="text-align:left;">okudo3</td>
+<td style="text-align:left;">200</td>
+</tr>
+<tr>
+<td style="text-align:left;">16</td>
+<td style="text-align:left;">hasegw</td>
+<td style="text-align:left;">200</td>
+</tr>
+<tr>
+<td style="text-align:left;">17</td>
+<td style="text-align:left;">/dev/ohuton</td>
+<td style="text-align:left;">170</td>
+</tr>
+<tr>
+<td style="text-align:left;">18</td>
+<td style="text-align:left;">GO TO THE FUTURE</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">19</td>
+<td style="text-align:left;">kinoko</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">20</td>
+<td style="text-align:left;">********</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">21</td>
+<td style="text-align:left;">CTF-infinit</td>
+<td style="text-align:left;">150</td>
+</tr>
+<tr>
+<td style="text-align:left;">22</td>
+<td style="text-align:left;">Sakityan</td>
+<td style="text-align:left;">120</td>
+</tr>
+<tr>
+<td style="text-align:left;">23</td>
+<td style="text-align:left;">just4funand2learn</td>
+<td style="text-align:left;">100</td>
+</tr>
+<tr>
+<td style="text-align:left;">24</td>
+<td style="text-align:left;">y.</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">25</td>
+<td style="text-align:left;">doublepush</td>
+<td style="text-align:left;">50</td>
+</tr>
+<tr>
+<td style="text-align:left;">26</td>
+<td style="text-align:left;">saltcandy123</td>
+<td style="text-align:left;">50</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2終了！]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-finished/"/>
+    <updated>2013-09-29T21:24:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-finished</id>
+    <content type="html"><![CDATA[<p>tkbctf2は終了しました。参加者の皆さんお疲れ様でした。</p>
+
+<p>5位までの最終順位は以下の通りです。</p>
+
+<p><img src="/images/2013/09/ranking.png" alt="tkbctf2 ranking" /></p>
+
+<p>上位に入られた方おめでとうございます！</p>
+
+<p>Jellybeanとscoreは終了まで正答者が出ませんでした。少し時間が足りなかったかもしれません。（もし次回があれば時間配分の参考にします。。。）</p>
+
+<p>時間のある方は是非再チャレンジしてみてください。Write-upは全問題で随時お待ちしております。@tkbctfまでmentionを送る等して頂ければ可能な範囲で紹介します。</p>
+
+<p>12時間お疲れ様でした。ありがとうございました。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 開始直前です！]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon/"/>
+    <updated>2013-09-29T05:49:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon</id>
+    <content type="html"><![CDATA[<p>登録フォームからメールアドレスを登録した参加者の方全員に、tkbctf /at/ gmail.comからスコアサーバーについてのメールを送信しました。確認をお願いします。</p>
+
+<p>メールが届いていない場合には、tkbctf /at/ gmail.com まで問い合わせて下さい。</p>
+
+<p>We sent you an email about score server from tkbctf /at/ gmail.com.</p>
+
+<p>If you haven&rsquo;t received the email, please contact us at tkbctf /at/ gmail.com.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 登録開始]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start/"/>
+    <updated>2013-09-11T03:54:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start</id>
+    <content type="html"><![CDATA[<p>tkbctf2は<strong>9/29 09:00 - 21:00 JST</strong>の12時間で開催される事になりました！</p>
+
+<p>また、本日からtkbctf2の登録を開始しました。以下のフォームからメールアドレスを登録してください。tkbctf2当日までに詳細な情報をお送りします。</p>
+
+<p><a href="https://docs.google.com/forms/d/11kHPXDRYVtuaiW50RunSN8GLJlffmd5VBXiXz0MfFgo/viewform">tkbctf2 registration form</a></p>
+
+<hr />
+
+<p>What a bright day :)</p>
+
+<p>tkbctf2 will be held on <strong>Sept. 29th</strong>. The contest will run <strong>from 09:00 to 21:00 (JST)</strong>.</p></p>
+
+<p>We opened <a href="https://docs.google.com/forms/d/11kHPXDRYVtuaiW50RunSN8GLJlffmd5VBXiXz0MfFgo/viewform">tkbctf2 registration form</a>. Please register your email address. We will email you the details by the contest day.</p>
+
+<p>Note that the registration is required for a team. If you are a leader or an individual participant, you must do this.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 開催決定!]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/07/tkbctf2-coming/"/>
+    <updated>2013-07-29T01:33:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/07/tkbctf2-coming</id>
+    <content type="html"><![CDATA[<p><img src="/images/2013/07/2nd_logo.png" alt="tkbctf2 logo" /></p>
+
+<p>tkbctf2を<strong>9月29日(日)</strong>に開催する事が決まりました。
+参加申し込み等の詳細は追ってお知らせします。</p>
+]]></content>
+  </entry>
+  
+</feed>
