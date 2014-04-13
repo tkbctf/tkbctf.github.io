@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Result | tkbctf]]></title>
   <link href="http://tkbctf.github.io/blog/categories/result/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-04-13T16:08:25+09:00</updated>
+  <updated>2014-04-13T16:11:32+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。</p>
 
 <p>Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).</p>
+
+<!-- more -->
+
 
 <h2>Individual</h2>
 
@@ -418,6 +421,9 @@
     <content type="html"><![CDATA[<p>個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。</p>
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
+
+<!-- more -->
+
 
 <table>
 <thead>

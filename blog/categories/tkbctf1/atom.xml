@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tkbctf1 | tkbctf]]></title>
   <link href="http://tkbctf.github.io/blog/categories/tkbctf1/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-04-13T16:08:25+09:00</updated>
+  <updated>2014-04-13T16:11:32+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。</p>
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
+
+<!-- more -->
+
 
 <table>
 <thead>
@@ -278,6 +281,9 @@
     <updated>2013-05-05T12:40:00+09:00</updated>
     <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-done</id>
     <content type="html"><![CDATA[<p>こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。</p>
+
+<!-- more -->
+
 
 <p>まずは参加者の皆さんお疲れ様でした。上位の方はおめでとうございます。</p>
 
