@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.github.io/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-04-13T05:02:57+09:00</updated>
+  <updated>2014-04-13T09:14:49+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Website renewal!]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/04/website-renewal/"/>
+    <updated>2014-04-12T18:35:45+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/04/website-renewal</id>
+    <content type="html"><![CDATA[<p>We have renewed our website!</p>
+
+<p>tkbctf3 details to be announced.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[tkbctf3!]]></title>
