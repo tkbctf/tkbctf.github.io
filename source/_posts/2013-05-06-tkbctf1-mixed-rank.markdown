@@ -6,6 +6,7 @@ comments: true
 categories:
   - tkbctf1
   - Result
+alias: /archives/170
 ---
 
 個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。

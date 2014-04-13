@@ -6,6 +6,7 @@ comments: true
 categories:
   - Misc
   - tkbctf1
+alias: /archives/158
 ---
 
 こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。

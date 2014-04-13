@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf1
+alias: /archives/156
 ---
 
 tkbctf1が終了しました！ 参加者の皆さんありがとうございました。

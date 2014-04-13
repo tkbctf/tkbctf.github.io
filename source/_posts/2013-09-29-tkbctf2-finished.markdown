@@ -7,6 +7,7 @@ categories:
   - Announcement
   - tkbctf2
   - Result
+alias: /archives/270
 ---
 
 tkbctf2は終了しました。参加者の皆さんお疲れ様でした。

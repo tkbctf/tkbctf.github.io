@@ -5,6 +5,7 @@ date: 2013-04-11 05:35:00 +0900
 comments: true
 categories:
   - Announcement
+alias: /archives/37
 ---
 
 tkbctfのWebサイトが出来ました。

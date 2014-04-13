@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf1
+alias: /archives/82
 ---
 
 第1回大会のお知らせを掲載しております。「[tkbctf1](http://tkbctf.info/tkbctf1)」をご覧ください。

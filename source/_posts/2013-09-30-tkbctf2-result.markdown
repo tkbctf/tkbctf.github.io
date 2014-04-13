@@ -6,6 +6,7 @@ comments: true
 categories:
   - tkbctf2
   - Result
+alias: /archives/276
 ---
 
 秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。

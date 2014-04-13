@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf3
+alias: /archives/281
 ---
 
 ![tkbctf3 logo](/images/2014/03/3rd_logo.png)

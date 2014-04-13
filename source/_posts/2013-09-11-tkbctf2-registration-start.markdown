@@ -7,6 +7,7 @@ categories:
   - Announcement
   - tkbctf2
   - Registration
+alias: /archives/206
 ---
 
 tkbctf2は**9/29 09:00 - 21:00 JST**の12時間で開催される事になりました！

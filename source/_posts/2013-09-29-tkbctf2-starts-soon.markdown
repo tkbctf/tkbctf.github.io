@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf2
+alias: /archives/268
 ---
 
 登録フォームからメールアドレスを登録した参加者の方全員に、tkbctf /at/ gmail.comからスコアサーバーについてのメールを送信しました。確認をお願いします。

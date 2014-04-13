@@ -7,6 +7,7 @@ categories:
   - Announcement
   - Registration
   - tkbctf1
+alias: /archives/96
 ---
 
 tkbctf1の登録受付を開始しました。tkbctf1に参加する方は[Register](https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform)から登録をお願いします。

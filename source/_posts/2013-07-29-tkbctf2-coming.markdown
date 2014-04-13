@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf2
+alias: /archives/190
 ---
 
 ![tkbctf2 logo](/images/2013/07/2nd_logo.png)

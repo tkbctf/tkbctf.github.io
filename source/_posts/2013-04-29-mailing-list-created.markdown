@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf1
+alias: /archives/119
 ---
 
 tkbctf1の参加者を連絡専用のメーリングリストに登録しました。

@@ -6,6 +6,7 @@ comments: true
 categories:
   - Announcement
   - tkbctf1
+alias: /archives/151
 ---
 
 tkbctf1では、Web等の一部問題で攻撃対象サーバーへの接続にPPTPを使うこととなりました。
