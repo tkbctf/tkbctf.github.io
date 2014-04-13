@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Misc | tkbctf]]></title>
   <link href="http://tkbctf.github.io/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-04-13T09:33:11+09:00</updated>
+  <updated>2014-04-13T15:42:54+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Old Posts Migrated]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/04/old-posts-migrated/"/>
+    <updated>2014-04-13T09:56:54+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/04/old-posts-migrated</id>
+    <content type="html"><![CDATA[<p>The old tkbctf.info posts has been migrated into the new site.</p>
+
+<h1>Permalinks</h1>
+
+<p>We changed the structure of permalinks. The new permalink and the old one are <em>completely</em> incompatible.</p>
+
+<p>The old style permalinks (e.g. <code>/archives/281</code>) is still available only for the old posts. If you access with the old style permalink, you will be redirected. Please use new style permalinks (e.g. <code>/blob/2014/04/website-renewal/</code>) in future.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Website renewal!]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/04/website-renewal/"/>
+    <updated>2014-04-12T18:35:45+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/04/website-renewal</id>
+    <content type="html"><![CDATA[<p>We have renewed our website!</p>
+
+<p>tkbctf3 details to be announced.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[tkbctf1お疲れ様でした]]></title>
