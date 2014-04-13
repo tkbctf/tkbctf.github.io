@@ -13,6 +13,8 @@ alias: /archives/276
 
 Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).
 
+<!-- more -->
+
 Individual
 ----------
 

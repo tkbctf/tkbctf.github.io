@@ -13,6 +13,8 @@ alias: /archives/170
 
 We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.
 
+<!-- more -->
+
 | \# | \# Member |    Name    | Score |
 |:--:|:---------:|:----------:|------:|
 | 1  |     5     |    MMA     | 1700  |
