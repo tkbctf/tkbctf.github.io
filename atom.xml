@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.github.io/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-04-13T09:33:11+09:00</updated>
+  <updated>2014-04-24T05:40:36+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Registration is now open!]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/04/registration-is-now-open/"/>
+    <updated>2014-04-24T03:30:11+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/04/registration-is-now-open</id>
+    <content type="html"><![CDATA[<p>Registration for tkbctf3 is now open!</p>
+
+<ul>
+<li>(for team leaders) <a href="http://score.tkbctf.info/teams/new">Team Registration</a></li>
+<li>(for players) <a href="http://score.tkbctf.info/players/sign_up">Sign up</a>
+<br />All players must be belonged to a team. (You can make a team with one person.)</li>
+</ul>
+
+
+<p>If you find a bug on the registration system, <a href="https://github.com/mayth/parasol/issues">create an issue</a> or <a href="https://twitter.com/maytheplic">contact the developer on twitter</a>.</p>
+
+<p>Team registration ends at <strong>2014/05/04 12:00 JST</strong>.
+tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014/05/05 06:00 JST</strong>.</p>
+
+<p>tkbctf3 will be jeopardy style. We will make further announcement here.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Old Posts Migrated]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/04/old-posts-migrated/"/>
+    <updated>2014-04-13T09:56:54+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/04/old-posts-migrated</id>
+    <content type="html"><![CDATA[<p>The old tkbctf.info posts has been migrated into the new site.</p>
+
+<h1>Permalinks</h1>
+
+<p>We changed the structure of permalinks. The new permalink and the old one are <em>completely</em> incompatible.</p>
+
+<p>The old style permalinks (e.g. <code>/archives/281</code>) is still available only for the old posts. If you access with the old style permalink, you will be redirected. Please use new style permalinks (e.g. <code>/blog/2014/04/website-renewal/</code>) in future.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Website renewal!]]></title>
@@ -45,6 +83,9 @@
     <content type="html"><![CDATA[<p>秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。</p>
 
 <p>Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).</p>
+
+<!-- more -->
+
 
 <h2>Individual</h2>
 
@@ -493,6 +534,9 @@
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
 
+<!-- more -->
+
+
 <table>
 <thead>
 <tr>
@@ -749,6 +793,9 @@
     <updated>2013-05-05T12:40:00+09:00</updated>
     <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-done</id>
     <content type="html"><![CDATA[<p>こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。</p>
+
+<!-- more -->
+
 
 <p>まずは参加者の皆さんお疲れ様でした。上位の方はおめでとうございます。</p>
 
