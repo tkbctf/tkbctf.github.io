@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.github.io/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-05-04T11:32:18+09:00</updated>
+  <updated>2014-05-05T05:33:24+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,42 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[About IRC channel etc.]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc/"/>
-    <updated>2014-05-04T11:21:23+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc</id>
-    <content type="html"><![CDATA[<p>tkbctf3 will open at 12:00 JST today!</p>
-
-<p>Here is the tkbctf3 irc channel: roddenberry.freenode.net #tkbctf3</p>
-
-<p>We will make further announcements at <a href="http://score.tkbctf.info">score.tkbctf.info</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Registration is now open!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/registration-is-now-open/"/>
-    <updated>2014-04-24T03:30:11+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/registration-is-now-open</id>
-    <content type="html"><![CDATA[<p>Registration for tkbctf3 is now open!</p>
-
-<ul>
-<li>(for team leaders) <a href="http://score.tkbctf.info/teams/new">Team Registration</a></li>
-<li>(for players) <a href="http://score.tkbctf.info/players/sign_up">Sign up</a>
-<br />All players must be belonged to a team. (You can make a team with one person.)</li>
-</ul>
-
-
-<p>If you find a bug on the registration system, <a href="https://github.com/mayth/parasol/issues">create an issue</a> or <a href="https://twitter.com/maytheplic">contact the developer on twitter</a>.</p>
-
-<p>Team registration ends at <strong>2014/05/04 12:00 JST</strong>.
-tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014/05/05 06:00 JST</strong>.</p>
-
-<p>tkbctf3 will be jeopardy style. We will make further announcement here.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Old Posts Migrated]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Announcement | tkbctf]]></title>
   <link href="http://tkbctf.github.io/blog/categories/announcement/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-05-04T11:32:18+09:00</updated>
+  <updated>2014-05-05T05:33:24+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,42 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[About IRC channel etc.]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc/"/>
-    <updated>2014-05-04T11:21:23+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc</id>
-    <content type="html"><![CDATA[<p>tkbctf3 will open at 12:00 JST today!</p>
-
-<p>Here is the tkbctf3 irc channel: roddenberry.freenode.net #tkbctf3</p>
-
-<p>We will make further announcements at <a href="http://score.tkbctf.info">score.tkbctf.info</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Registration is now open!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/registration-is-now-open/"/>
-    <updated>2014-04-24T03:30:11+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/registration-is-now-open</id>
-    <content type="html"><![CDATA[<p>Registration for tkbctf3 is now open!</p>
-
-<ul>
-<li>(for team leaders) <a href="http://score.tkbctf.info/teams/new">Team Registration</a></li>
-<li>(for players) <a href="http://score.tkbctf.info/players/sign_up">Sign up</a>
-<br />All players must be belonged to a team. (You can make a team with one person.)</li>
-</ul>
-
-
-<p>If you find a bug on the registration system, <a href="https://github.com/mayth/parasol/issues">create an issue</a> or <a href="https://twitter.com/maytheplic">contact the developer on twitter</a>.</p>
-
-<p>Team registration ends at <strong>2014/05/04 12:00 JST</strong>.
-tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014/05/05 06:00 JST</strong>.</p>
-
-<p>tkbctf3 will be jeopardy style. We will make further announcement here.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Website renewal!]]></title>
@@ -91,6 +55,44 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
 <p>時間のある方は是非再チャレンジしてみてください。Write-upは全問題で随時お待ちしております。@tkbctfまでmentionを送る等して頂ければ可能な範囲で紹介します。</p>
 
 <p>12時間お疲れ様でした。ありがとうございました。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 開始直前です！]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon/"/>
+    <updated>2013-09-29T05:49:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon</id>
+    <content type="html"><![CDATA[<p>登録フォームからメールアドレスを登録した参加者の方全員に、tkbctf /at/ gmail.comからスコアサーバーについてのメールを送信しました。確認をお願いします。</p>
+
+<p>メールが届いていない場合には、tkbctf /at/ gmail.com まで問い合わせて下さい。</p>
+
+<p>We sent you an email about score server from tkbctf /at/ gmail.com.</p>
+
+<p>If you haven&rsquo;t received the email, please contact us at tkbctf /at/ gmail.com.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf2 登録開始]]></title>
+    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start/"/>
+    <updated>2013-09-11T03:54:00+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start</id>
+    <content type="html"><![CDATA[<p>tkbctf2は<strong>9/29 09:00 - 21:00 JST</strong>の12時間で開催される事になりました！</p>
+
+<p>また、本日からtkbctf2の登録を開始しました。以下のフォームからメールアドレスを登録してください。tkbctf2当日までに詳細な情報をお送りします。</p>
+
+<p><a href="https://docs.google.com/forms/d/11kHPXDRYVtuaiW50RunSN8GLJlffmd5VBXiXz0MfFgo/viewform">tkbctf2 registration form</a></p>
+
+<hr />
+
+<p>What a bright day :)</p>
+
+<p>tkbctf2 will be held on <strong>Sept. 29th</strong>. The contest will run <strong>from 09:00 to 21:00 (JST)</strong>.</p></p>
+
+<p>We opened <a href="https://docs.google.com/forms/d/11kHPXDRYVtuaiW50RunSN8GLJlffmd5VBXiXz0MfFgo/viewform">tkbctf2 registration form</a>. Please register your email address. We will email you the details by the contest day.</p>
+
+<p>Note that the registration is required for a team. If you are a leader or an individual participant, you must do this.</p>
 ]]></content>
   </entry>
   
