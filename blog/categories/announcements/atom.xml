@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Announcements | tkbctf]]></title>
+  <link href="http://tkbctf.github.io/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://tkbctf.github.io/"/>
+  <updated>2014-05-05T06:52:10+09:00</updated>
+  <id>http://tkbctf.github.io/</id>
+  <author>
+    <name><![CDATA[tkbctf team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf3 is over!]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over/"/>
+    <updated>2014-05-05T05:33:13+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over</id>
+    <content type="html"><![CDATA[<p>tkbctf3 is over! Thanks you for all players.</p>
+
+<p>Here is the final ranking.<br />
+<img src="/images/2014/05/ranking.png" alt="Ranking" /></p>
+
+<p><strong>1st: dcua, 2nd: _MMA_, 3rd: superflip.</strong><br />
+Congraturation dcua!!!</p>
+
+<p><img src="/images/2014/05/CIMG0587.JPG" alt="Operation room 1" />
+<img src="/images/2014/05/CIMG0585.JPG" alt="Operation room 2" /></p>
+
+<p>We are looking forward to read your write-up.<br />
+Have a nice week.</p>
+]]></content>
+  </entry>
+  
+</feed>
