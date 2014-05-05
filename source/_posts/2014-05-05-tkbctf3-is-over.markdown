@@ -23,5 +23,5 @@ We are looking forward to read your write-up.<br />
 Have a nice week.
 
 ---
-This post was delayed due to a technical trouble.
+This post was delayed due to technical trouble.
 Sorry for the delay.
