@@ -7,6 +7,8 @@ sharing: true
 footer: true
 ---
 
+![tkbctf3 logo](/images/3rd_logo.png)
+
 # About
 
 2014-05-04 12:00 (JST) - 2014-05-05 06:00 (JST) (18 hours)
