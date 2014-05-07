@@ -13,7 +13,7 @@ footer: true
 
 2014-05-04 12:00 (JST) - 2014-05-05 06:00 (JST) (18 hours)
 
-Online jeopardy style contest
+Online jeopardy style
 
 56 teams and 141 players registered
 
@@ -38,3 +38,4 @@ source code is available on github: [mayth/parasol](https://github.com/mayth/par
 
 * @yuzuhara
 * @yuscarlet
+* and the members of the operation team
