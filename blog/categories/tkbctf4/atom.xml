@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Announcements | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/announcements/atom.xml" rel="self"/>
+  <title><![CDATA[Category: tkbctf4 | tkbctf]]></title>
+  <link href="http://tkbctf.github.io/blog/categories/tkbctf4/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
   <updated>2014-09-24T18:33:30+09:00</updated>
   <id>http://tkbctf.github.io/</id>
@@ -27,32 +27,6 @@ For those who won&rsquo;t be able to visit Tsukuba on that day: Don&rsquo;t worr
 <p>We are anxious about your participation.</p>
 
 <p>That&rsquo;s all for now. Please stay tuned!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[tkbctf3 is over!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over/"/>
-    <updated>2014-05-05T05:33:13+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over</id>
-    <content type="html"><![CDATA[<p>tkbctf3 is over! Thanks you for all players.</p>
-
-<p>Here is the final ranking.<br />
-<img src="/images/2014/05/ranking.png" alt="Ranking" /></p>
-
-<p><strong><em>1st: dcua, 2nd: _MMA_, 3rd: superflip.</em></strong><br />
-<strong>Congraturation dcua!!!</strong></p>
-
-<p><img src="/images/2014/05/CIMG0587.JPG" alt="Operation room 1" />
-<img src="/images/2014/05/CIMG0585.JPG" alt="Operation room 2" /></p>
-
-<p>We are looking forward to read your write-up.<br />
-Have a nice week.</p>
-
-<hr />
-
-<p>This post was delayed due to technical trouble.
-Sorry for the delay.</p>
 ]]></content>
   </entry>
   

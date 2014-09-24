@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.github.io/atom.xml" rel="self"/>
   <link href="http://tkbctf.github.io/"/>
-  <updated>2014-05-07T13:15:51+09:00</updated>
+  <updated>2014-09-24T18:33:30+09:00</updated>
   <id>http://tkbctf.github.io/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4-announcement]]></title>
+    <link href="http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement/"/>
+    <updated>2014-09-24T18:28:47+09:00</updated>
+    <id>http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement</id>
+    <content type="html"><![CDATA[<p>Hello from tkbctf4 team!</p>
+
+<p>Let us announce that we are going to hold tkbctf4 on the 2nd and 3rd of November.<br />
+On the first day will be an online CTF game, and on the second day the game (and some bonus games!) will be held at a CTF arena in Tsukuba, Ibaraki, JAPAN.<br />
+For those who won&rsquo;t be able to visit Tsukuba on that day: Don&rsquo;t worry. The online game will also be held on the 3rd.</p>
+
+<p>We are anxious about your participation.</p>
+
+<p>That&rsquo;s all for now. Please stay tuned!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[tkbctf3 is over!]]></title>
