@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Registration | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/registration/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/registration/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 登録開始]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-registration-start/"/>
     <updated>2013-09-11T03:54:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-registration-start</id>
     <content type="html"><![CDATA[<p>tkbctf2は<strong>9/29 09:00 - 21:00 JST</strong>の12時間で開催される事になりました！</p>
 
 <p>また、本日からtkbctf2の登録を開始しました。以下のフォームからメールアドレスを登録してください。tkbctf2当日までに詳細な情報をお送りします。</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1登録受付開始!]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/tkbctf1-registration-start/"/>
+    <link href="http://tkbctf.info/blog/2013/04/tkbctf1-registration-start/"/>
     <updated>2013-04-12T12:16:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/tkbctf1-registration-start</id>
+    <id>http://tkbctf.info/blog/2013/04/tkbctf1-registration-start</id>
     <content type="html"><![CDATA[<p>tkbctf1の登録受付を開始しました。tkbctf1に参加する方は<a href="https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform">Register</a>から登録をお願いします。</p>
 
 <p>ATNDで登録した人ももう一度こちらで登録をお願いします。登録期限は<strong>05/03 23:59 JST</strong>です。</p>

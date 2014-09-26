@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Misc | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/misc/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Old Posts Migrated]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/old-posts-migrated/"/>
+    <link href="http://tkbctf.info/blog/2014/04/old-posts-migrated/"/>
     <updated>2014-04-13T09:56:54+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/old-posts-migrated</id>
+    <id>http://tkbctf.info/blog/2014/04/old-posts-migrated</id>
     <content type="html"><![CDATA[<p>The old tkbctf.info posts has been migrated into the new site.</p>
 
 <h1>Permalinks</h1>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Website renewal!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/website-renewal/"/>
+    <link href="http://tkbctf.info/blog/2014/04/website-renewal/"/>
     <updated>2014-04-12T18:35:45+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/website-renewal</id>
+    <id>http://tkbctf.info/blog/2014/04/website-renewal</id>
     <content type="html"><![CDATA[<p>We have renewed our website!</p>
 
 <p>tkbctf3 details to be announced.</p>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1お疲れ様でした]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-done/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-done/"/>
     <updated>2013-05-05T12:40:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-done</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-done</id>
     <content type="html"><![CDATA[<p>こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。</p>
 
 <!-- more -->

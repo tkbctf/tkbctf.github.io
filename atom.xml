@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[tkbctf]]></title>
-  <link href="http://tkbctf.github.io/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Announcing tkbctf4]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement/"/>
+    <link href="http://tkbctf.info/blog/2014/09/tkbctf4-announcement/"/>
     <updated>2014-09-24T18:28:47+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement</id>
+    <id>http://tkbctf.info/blog/2014/09/tkbctf4-announcement</id>
     <content type="html"><![CDATA[<p>Hello from tkbctf4 team!</p>
 
 <p>Let us announce that we are going to hold tkbctf4 on the 2nd and 3rd of November.<br />
@@ -32,19 +32,19 @@ For those who won&rsquo;t be able to visit Tsukuba on that day: Don&rsquo;t worr
   
   <entry>
     <title type="html"><![CDATA[tkbctf3 is over!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over/"/>
+    <link href="http://tkbctf.info/blog/2014/05/tkbctf3-is-over/"/>
     <updated>2014-05-05T05:33:13+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over</id>
+    <id>http://tkbctf.info/blog/2014/05/tkbctf3-is-over</id>
     <content type="html"><![CDATA[<p>tkbctf3 is over! Thanks you for all players.</p>
 
 <p>Here is the final ranking.<br />
-<img src="http://tkbctf.github.io/images/2014/05/ranking.png" alt="Ranking" /></p>
+<img src="http://tkbctf.info/images/2014/05/ranking.png" alt="Ranking" /></p>
 
 <p><strong><em>1st: dcua, 2nd: _MMA_, 3rd: superflip.</em></strong><br />
 <strong>Congraturation dcua!!!</strong></p>
 
-<p><img src="http://tkbctf.github.io/images/2014/05/CIMG0587.JPG" alt="Operation room 1" />
-<img src="http://tkbctf.github.io/images/2014/05/CIMG0585.JPG" alt="Operation room 2" /></p>
+<p><img src="http://tkbctf.info/images/2014/05/CIMG0587.JPG" alt="Operation room 1" />
+<img src="http://tkbctf.info/images/2014/05/CIMG0585.JPG" alt="Operation room 2" /></p>
 
 <p>We are looking forward to read your write-up.<br />
 Have a nice week.</p>
@@ -58,9 +58,9 @@ Sorry for the delay.</p>
   
   <entry>
     <title type="html"><![CDATA[About IRC channel etc.]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc/"/>
+    <link href="http://tkbctf.info/blog/2014/05/about-irc-channel-etc/"/>
     <updated>2014-05-04T11:21:23+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc</id>
+    <id>http://tkbctf.info/blog/2014/05/about-irc-channel-etc</id>
     <content type="html"><![CDATA[<p>tkbctf3 will open at 12:00 JST today!</p>
 
 <p>Here is the tkbctf3 irc channel: roddenberry.freenode.net #tkbctf3</p>
@@ -71,9 +71,9 @@ Sorry for the delay.</p>
   
   <entry>
     <title type="html"><![CDATA[Registration is now open!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/registration-is-now-open/"/>
+    <link href="http://tkbctf.info/blog/2014/04/registration-is-now-open/"/>
     <updated>2014-04-24T03:30:11+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/registration-is-now-open</id>
+    <id>http://tkbctf.info/blog/2014/04/registration-is-now-open</id>
     <content type="html"><![CDATA[<p>Registration for tkbctf3 is now open!</p>
 
 <ul>
@@ -94,9 +94,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[Old Posts Migrated]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/old-posts-migrated/"/>
+    <link href="http://tkbctf.info/blog/2014/04/old-posts-migrated/"/>
     <updated>2014-04-13T09:56:54+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/old-posts-migrated</id>
+    <id>http://tkbctf.info/blog/2014/04/old-posts-migrated</id>
     <content type="html"><![CDATA[<p>The old tkbctf.info posts has been migrated into the new site.</p>
 
 <h1>Permalinks</h1>
@@ -109,9 +109,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[Website renewal!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/website-renewal/"/>
+    <link href="http://tkbctf.info/blog/2014/04/website-renewal/"/>
     <updated>2014-04-12T18:35:45+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/website-renewal</id>
+    <id>http://tkbctf.info/blog/2014/04/website-renewal</id>
     <content type="html"><![CDATA[<p>We have renewed our website!</p>
 
 <p>tkbctf3 details to be announced.</p>
@@ -120,10 +120,10 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf3!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon/"/>
+    <link href="http://tkbctf.info/blog/2014/03/tkbctf3-coming-soon/"/>
     <updated>2014-03-16T23:55:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon</id>
-    <content type="html"><![CDATA[<p><img src="http://tkbctf.github.io/images/2014/03/3rd_logo.png" alt="tkbctf3 logo" /></p>
+    <id>http://tkbctf.info/blog/2014/03/tkbctf3-coming-soon</id>
+    <content type="html"><![CDATA[<p><img src="http://tkbctf.info/images/2014/03/3rd_logo.png" alt="tkbctf3 logo" /></p>
 
 <p>tkbctf3やります！</p>
 
@@ -133,9 +133,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 Result]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-result/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-result/"/>
     <updated>2013-09-30T16:27:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-result</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-result</id>
     <content type="html"><![CDATA[<p>秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。</p>
 
 <p>Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).</p>
@@ -512,14 +512,14 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2終了！]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-finished/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-finished/"/>
     <updated>2013-09-29T21:24:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-finished</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-finished</id>
     <content type="html"><![CDATA[<p>tkbctf2は終了しました。参加者の皆さんお疲れ様でした。</p>
 
 <p>5位までの最終順位は以下の通りです。</p>
 
-<p><img src="http://tkbctf.github.io/images/2013/09/ranking.png" alt="tkbctf2 ranking" /></p>
+<p><img src="http://tkbctf.info/images/2013/09/ranking.png" alt="tkbctf2 ranking" /></p>
 
 <p>上位に入られた方おめでとうございます！</p>
 
@@ -533,9 +533,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 開始直前です！]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-starts-soon/"/>
     <updated>2013-09-29T05:49:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-starts-soon</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-starts-soon</id>
     <content type="html"><![CDATA[<p>登録フォームからメールアドレスを登録した参加者の方全員に、tkbctf /at/ gmail.comからスコアサーバーについてのメールを送信しました。確認をお願いします。</p>
 
 <p>メールが届いていない場合には、tkbctf /at/ gmail.com まで問い合わせて下さい。</p>
@@ -548,9 +548,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 登録開始]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-registration-start/"/>
     <updated>2013-09-11T03:54:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-registration-start</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-registration-start</id>
     <content type="html"><![CDATA[<p>tkbctf2は<strong>9/29 09:00 - 21:00 JST</strong>の12時間で開催される事になりました！</p>
 
 <p>また、本日からtkbctf2の登録を開始しました。以下のフォームからメールアドレスを登録してください。tkbctf2当日までに詳細な情報をお送りします。</p>
@@ -571,10 +571,10 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 開催決定!]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/07/tkbctf2-coming/"/>
+    <link href="http://tkbctf.info/blog/2013/07/tkbctf2-coming/"/>
     <updated>2013-07-29T01:33:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/07/tkbctf2-coming</id>
-    <content type="html"><![CDATA[<p><img src="http://tkbctf.github.io/images/2013/07/2nd_logo.png" alt="tkbctf2 logo" /></p>
+    <id>http://tkbctf.info/blog/2013/07/tkbctf2-coming</id>
+    <content type="html"><![CDATA[<p><img src="http://tkbctf.info/images/2013/07/2nd_logo.png" alt="tkbctf2 logo" /></p>
 
 <p>tkbctf2を<strong>9月29日(日)</strong>に開催する事が決まりました。
 参加申し込み等の詳細は追ってお知らせします。</p>
@@ -583,9 +583,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf1 個人・チーム混合順位]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank/"/>
     <updated>2013-05-06T14:30:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank</id>
     <content type="html"><![CDATA[<p>個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。</p>
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
@@ -845,9 +845,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf1お疲れ様でした]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-done/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-done/"/>
     <updated>2013-05-05T12:40:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-done</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-done</id>
     <content type="html"><![CDATA[<p>こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。</p>
 
 <!-- more -->
@@ -870,13 +870,13 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf1終了!]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-finished/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-finished/"/>
     <updated>2013-05-05T08:57:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-finished</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-finished</id>
     <content type="html"><![CDATA[<p>tkbctf1が終了しました！ 参加者の皆さんありがとうございました。
 終了時点での10位までの順位は以下の通りです。</p>
 
-<p><img src="http://tkbctf.github.io/images/2013/05/ranking.png" alt="Ranking" /></p>
+<p><img src="http://tkbctf.info/images/2013/05/ranking.png" alt="Ranking" /></p>
 
 <p>個人1位のsuperbackerさん、2位のmofutonさん、3位のaskn2さんおめでとうございます！</p>
 
@@ -899,9 +899,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[PPTP接続について]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/pptp-connection/"/>
+    <link href="http://tkbctf.info/blog/2013/05/pptp-connection/"/>
     <updated>2013-05-03T14:38:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/pptp-connection</id>
+    <id>http://tkbctf.info/blog/2013/05/pptp-connection</id>
     <content type="html"><![CDATA[<p>tkbctf1では、Web等の一部問題で攻撃対象サーバーへの接続にPPTPを使うこととなりました。</p>
 
 <p>各自でPPTP接続の準備をお願いします。接続情報は追ってお知らせします。</p>
@@ -924,9 +924,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[メーリングリストを作成しました]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/mailing-list-created/"/>
+    <link href="http://tkbctf.info/blog/2013/04/mailing-list-created/"/>
     <updated>2013-04-29T17:50:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/mailing-list-created</id>
+    <id>http://tkbctf.info/blog/2013/04/mailing-list-created</id>
     <content type="html"><![CDATA[<p>tkbctf1の参加者を連絡専用のメーリングリストに登録しました。</p>
 
 <p>エントリー時に入力して頂いたメールアドレスに、追加された旨メールが届いているかと思います。</p>
@@ -943,9 +943,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf1登録受付開始!]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/tkbctf1-registration-start/"/>
+    <link href="http://tkbctf.info/blog/2013/04/tkbctf1-registration-start/"/>
     <updated>2013-04-12T12:16:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/tkbctf1-registration-start</id>
+    <id>http://tkbctf.info/blog/2013/04/tkbctf1-registration-start</id>
     <content type="html"><![CDATA[<p>tkbctf1の登録受付を開始しました。tkbctf1に参加する方は<a href="https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform">Register</a>から登録をお願いします。</p>
 
 <p>ATNDで登録した人ももう一度こちらで登録をお願いします。登録期限は<strong>05/03 23:59 JST</strong>です。</p>
@@ -958,9 +958,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[第1回大会のお知らせ]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/announce-first-contest/"/>
+    <link href="http://tkbctf.info/blog/2013/04/announce-first-contest/"/>
     <updated>2013-04-12T09:45:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/announce-first-contest</id>
+    <id>http://tkbctf.info/blog/2013/04/announce-first-contest</id>
     <content type="html"><![CDATA[<p>第1回大会のお知らせを掲載しております。「<a href="http://tkbctf.info/tkbctf1">tkbctf1</a>」をご覧ください。</p>
 
 <p>参加登録に関しては後ほど当Webサイトおよび<a href="https://twitter.com/tkbctf">Twitter上</a>にてお知らせしますのでご確認ください。（※以前案内しておりましたATNDのページは使用しません）</p>
@@ -969,9 +969,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[Webサイト開設]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/website-opened/"/>
+    <link href="http://tkbctf.info/blog/2013/04/website-opened/"/>
     <updated>2013-04-11T05:35:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/website-opened</id>
+    <id>http://tkbctf.info/blog/2013/04/website-opened</id>
     <content type="html"><![CDATA[<p>tkbctfのWebサイトが出来ました。</p>
 
 <p>当初は<a href="http://atnd.org/events/38597">ATND</a>で告知を行なっていましたが、以降はこのWebサイトと<a href="https://twitter.com/tkbctf">twitter</a>でtkbctfについての情報をお知らせします。</p>

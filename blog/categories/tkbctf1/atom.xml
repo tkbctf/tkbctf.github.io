@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tkbctf1 | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/tkbctf1/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/tkbctf1/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1 個人・チーム混合順位]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank/"/>
     <updated>2013-05-06T14:30:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank</id>
     <content type="html"><![CDATA[<p>個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。</p>
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
@@ -277,9 +277,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1お疲れ様でした]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-done/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-done/"/>
     <updated>2013-05-05T12:40:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-done</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-done</id>
     <content type="html"><![CDATA[<p>こんにちは、主にスコアサーバー開発を担当しておりました秋弦めいです。1問だけ、（解答が大変なことになった）問題も作りました。あとはこのWebサイトの（手抜き）ロゴの作成やTwitter(@tkbctf)のアイコンを作りました。</p>
 
 <!-- more -->
@@ -302,9 +302,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1終了!]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-finished/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-finished/"/>
     <updated>2013-05-05T08:57:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-finished</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-finished</id>
     <content type="html"><![CDATA[<p>tkbctf1が終了しました！ 参加者の皆さんありがとうございました。
 終了時点での10位までの順位は以下の通りです。</p>
 
@@ -331,9 +331,9 @@
   
   <entry>
     <title type="html"><![CDATA[PPTP接続について]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/pptp-connection/"/>
+    <link href="http://tkbctf.info/blog/2013/05/pptp-connection/"/>
     <updated>2013-05-03T14:38:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/pptp-connection</id>
+    <id>http://tkbctf.info/blog/2013/05/pptp-connection</id>
     <content type="html"><![CDATA[<p>tkbctf1では、Web等の一部問題で攻撃対象サーバーへの接続にPPTPを使うこととなりました。</p>
 
 <p>各自でPPTP接続の準備をお願いします。接続情報は追ってお知らせします。</p>
@@ -356,9 +356,9 @@
   
   <entry>
     <title type="html"><![CDATA[メーリングリストを作成しました]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/04/mailing-list-created/"/>
+    <link href="http://tkbctf.info/blog/2013/04/mailing-list-created/"/>
     <updated>2013-04-29T17:50:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/04/mailing-list-created</id>
+    <id>http://tkbctf.info/blog/2013/04/mailing-list-created</id>
     <content type="html"><![CDATA[<p>tkbctf1の参加者を連絡専用のメーリングリストに登録しました。</p>
 
 <p>エントリー時に入力して頂いたメールアドレスに、追加された旨メールが届いているかと思います。</p>

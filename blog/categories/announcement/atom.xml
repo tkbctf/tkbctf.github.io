@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Announcement | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/announcement/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/announcement/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[About IRC channel etc.]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc/"/>
+    <link href="http://tkbctf.info/blog/2014/05/about-irc-channel-etc/"/>
     <updated>2014-05-04T11:21:23+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/about-irc-channel-etc</id>
+    <id>http://tkbctf.info/blog/2014/05/about-irc-channel-etc</id>
     <content type="html"><![CDATA[<p>tkbctf3 will open at 12:00 JST today!</p>
 
 <p>Here is the tkbctf3 irc channel: roddenberry.freenode.net #tkbctf3</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Registration is now open!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/registration-is-now-open/"/>
+    <link href="http://tkbctf.info/blog/2014/04/registration-is-now-open/"/>
     <updated>2014-04-24T03:30:11+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/registration-is-now-open</id>
+    <id>http://tkbctf.info/blog/2014/04/registration-is-now-open</id>
     <content type="html"><![CDATA[<p>Registration for tkbctf3 is now open!</p>
 
 <ul>
@@ -51,9 +51,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[Website renewal!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/04/website-renewal/"/>
+    <link href="http://tkbctf.info/blog/2014/04/website-renewal/"/>
     <updated>2014-04-12T18:35:45+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/04/website-renewal</id>
+    <id>http://tkbctf.info/blog/2014/04/website-renewal</id>
     <content type="html"><![CDATA[<p>We have renewed our website!</p>
 
 <p>tkbctf3 details to be announced.</p>
@@ -62,9 +62,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf3!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon/"/>
+    <link href="http://tkbctf.info/blog/2014/03/tkbctf3-coming-soon/"/>
     <updated>2014-03-16T23:55:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/03/tkbctf3-coming-soon</id>
+    <id>http://tkbctf.info/blog/2014/03/tkbctf3-coming-soon</id>
     <content type="html"><![CDATA[<p><img src="/images/2014/03/3rd_logo.png" alt="tkbctf3 logo" /></p>
 
 <p>tkbctf3やります！</p>
@@ -75,9 +75,9 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
   
   <entry>
     <title type="html"><![CDATA[tkbctf2終了！]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-finished/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-finished/"/>
     <updated>2013-09-29T21:24:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-finished</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-finished</id>
     <content type="html"><![CDATA[<p>tkbctf2は終了しました。参加者の皆さんお疲れ様でした。</p>
 
 <p>5位までの最終順位は以下の通りです。</p>

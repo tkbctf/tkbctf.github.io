@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Announcements | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/announcements/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Announcing tkbctf4]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement/"/>
+    <link href="http://tkbctf.info/blog/2014/09/tkbctf4-announcement/"/>
     <updated>2014-09-24T18:28:47+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/09/tkbctf4-announcement</id>
+    <id>http://tkbctf.info/blog/2014/09/tkbctf4-announcement</id>
     <content type="html"><![CDATA[<p>Hello from tkbctf4 team!</p>
 
 <p>Let us announce that we are going to hold tkbctf4 on the 2nd and 3rd of November.<br />
@@ -32,9 +32,9 @@ For those who won&rsquo;t be able to visit Tsukuba on that day: Don&rsquo;t worr
   
   <entry>
     <title type="html"><![CDATA[tkbctf3 is over!]]></title>
-    <link href="http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over/"/>
+    <link href="http://tkbctf.info/blog/2014/05/tkbctf3-is-over/"/>
     <updated>2014-05-05T05:33:13+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2014/05/tkbctf3-is-over</id>
+    <id>http://tkbctf.info/blog/2014/05/tkbctf3-is-over</id>
     <content type="html"><![CDATA[<p>tkbctf3 is over! Thanks you for all players.</p>
 
 <p>Here is the final ranking.<br />

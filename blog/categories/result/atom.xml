@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Result | tkbctf]]></title>
-  <link href="http://tkbctf.github.io/blog/categories/result/atom.xml" rel="self"/>
-  <link href="http://tkbctf.github.io/"/>
-  <updated>2014-09-24T18:55:21+09:00</updated>
-  <id>http://tkbctf.github.io/</id>
+  <link href="http://tkbctf.info/blog/categories/result/atom.xml" rel="self"/>
+  <link href="http://tkbctf.info/"/>
+  <updated>2014-09-27T06:32:21+09:00</updated>
+  <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf2 Result]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-result/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-result/"/>
     <updated>2013-09-30T16:27:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-result</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-result</id>
     <content type="html"><![CDATA[<p>秋弦めいです。tkbctf2参加者の皆さん、お疲れ様でした。終了時点でのランキングを掲載します。なお、これに伴いスコアサーバーは停止されます。tkbctf2の結果にリンクを張る場合はこちらの記事にお願いします。</p>
 
 <p>Here is the final result of tkbctf2. We will shut down the score server, so if you want to link to the result, link to this article instead of the score server (score.tkbctf.info).</p>
@@ -394,9 +394,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf2終了！]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/09/tkbctf2-finished/"/>
+    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-finished/"/>
     <updated>2013-09-29T21:24:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/09/tkbctf2-finished</id>
+    <id>http://tkbctf.info/blog/2013/09/tkbctf2-finished</id>
     <content type="html"><![CDATA[<p>tkbctf2は終了しました。参加者の皆さんお疲れ様でした。</p>
 
 <p>5位までの最終順位は以下の通りです。</p>
@@ -415,9 +415,9 @@
   
   <entry>
     <title type="html"><![CDATA[tkbctf1 個人・チーム混合順位]]></title>
-    <link href="http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank/"/>
+    <link href="http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank/"/>
     <updated>2013-05-06T14:30:00+09:00</updated>
-    <id>http://tkbctf.github.io/blog/2013/05/tkbctf1-mixed-rank</id>
+    <id>http://tkbctf.info/blog/2013/05/tkbctf1-mixed-rank</id>
     <content type="html"><![CDATA[<p>個人とチーム混合した順位を集計しましたので報告します。同一得点の場合は解答が早かった方が上位となっています。</p>
 
 <p>We report the mixed ranking of individuals and teams. The players or teams who have the same points are ordered by their last accepted datetime in ascending order.</p>
