@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tkbctf4 | tkbctf]]></title>
   <link href="http://tkbctf.info/blog/categories/tkbctf4/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-09-27T06:32:21+09:00</updated>
+  <updated>2014-10-16T18:16:53+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -18,7 +18,9 @@
     <link href="http://tkbctf.info/blog/2014/09/tkbctf4-announcement/"/>
     <updated>2014-09-24T18:28:47+09:00</updated>
     <id>http://tkbctf.info/blog/2014/09/tkbctf4-announcement</id>
-    <content type="html"><![CDATA[<p>Hello from tkbctf4 team!</p>
+    <content type="html"><![CDATA[<p><img src="/images/4th_logo.png" alt="tkbctf4 logo" /></p>
+
+<p>Hello from tkbctf4 team!</p>
 
 <p>Let us announce that we are going to hold tkbctf4 on the 2nd and 3rd of November.<br />
 On the first day will be an online CTF game, and on the second day the game (and some bonus games!) will be held at a CTF arena in Tsukuba, Ibaraki, JAPAN.<br />
