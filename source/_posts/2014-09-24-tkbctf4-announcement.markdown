@@ -8,6 +8,8 @@ categories:
     - tkbctf4
 ---
 
+![tkbctf4 logo](/images/4th_logo.png)
+
 Hello from tkbctf4 team!
 
 Let us announce that we are going to hold tkbctf4 on the 2nd and 3rd of November.<br />
