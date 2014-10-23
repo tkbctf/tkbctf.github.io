@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.info/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-10-16T18:16:53+09:00</updated>
+  <updated>2014-10-24T06:37:28+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4 registration will begin!]]></title>
+    <link href="http://tkbctf.info/blog/2014/10/tkbctf4-registration-will-begin/"/>
+    <updated>2014-10-24T06:04:25+09:00</updated>
+    <id>http://tkbctf.info/blog/2014/10/tkbctf4-registration-will-begin</id>
+    <content type="html"><![CDATA[<p>Good morning from Japan! This is Christopher, a member of tkbctf4 team.</p>
+
+<p>We are very excited to tell that we are pretty much ready to accept user/team registrations!<br />
+User/Team registrations will be accepted in less than 6 hours from now.</p>
+
+<p>For more information, please visit <a href="http://score.tkbctf.info/posts/1">tkbctf4&rsquo;s scoreboard server</a>.</p>
+
+<p>Thank you for your patience. It&rsquo;s coming up.</p>
+
+<p>P.S.
+We have previously stated that the second day of tkbctf4 (that is Nov 3) will be held at Tsukuba University, JAPAN.<br />
+Well, guess what. It will be held as one of the attractions of our University&rsquo;s campus festival!<br />
+So you can hack and slack. Cool!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Announcing tkbctf4]]></title>
@@ -966,19 +987,6 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
     <content type="html"><![CDATA[<p>第1回大会のお知らせを掲載しております。「<a href="http://tkbctf.info/tkbctf1">tkbctf1</a>」をご覧ください。</p>
 
 <p>参加登録に関しては後ほど当Webサイトおよび<a href="https://twitter.com/tkbctf">Twitter上</a>にてお知らせしますのでご確認ください。（※以前案内しておりましたATNDのページは使用しません）</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Webサイト開設]]></title>
-    <link href="http://tkbctf.info/blog/2013/04/website-opened/"/>
-    <updated>2013-04-11T05:35:00+09:00</updated>
-    <id>http://tkbctf.info/blog/2013/04/website-opened</id>
-    <content type="html"><![CDATA[<p>tkbctfのWebサイトが出来ました。</p>
-
-<p>当初は<a href="http://atnd.org/events/38597">ATND</a>で告知を行なっていましたが、以降はこのWebサイトと<a href="https://twitter.com/tkbctf">twitter</a>でtkbctfについての情報をお知らせします。</p>
-
-<p>近日中に登録フォームを公開するので、参加者はフォームから登録を行なってください。</p>
 ]]></content>
   </entry>
   

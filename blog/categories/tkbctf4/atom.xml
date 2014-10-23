@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tkbctf4 | tkbctf]]></title>
   <link href="http://tkbctf.info/blog/categories/tkbctf4/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-10-16T18:16:53+09:00</updated>
+  <updated>2014-10-24T06:37:28+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4 registration will begin!]]></title>
+    <link href="http://tkbctf.info/blog/2014/10/tkbctf4-registration-will-begin/"/>
+    <updated>2014-10-24T06:04:25+09:00</updated>
+    <id>http://tkbctf.info/blog/2014/10/tkbctf4-registration-will-begin</id>
+    <content type="html"><![CDATA[<p>Good morning from Japan! This is Christopher, a member of tkbctf4 team.</p>
+
+<p>We are very excited to tell that we are pretty much ready to accept user/team registrations!<br />
+User/Team registrations will be accepted in less than 6 hours from now.</p>
+
+<p>For more information, please visit <a href="http://score.tkbctf.info/posts/1">tkbctf4&rsquo;s scoreboard server</a>.</p>
+
+<p>Thank you for your patience. It&rsquo;s coming up.</p>
+
+<p>P.S.
+We have previously stated that the second day of tkbctf4 (that is Nov 3) will be held at Tsukuba University, JAPAN.<br />
+Well, guess what. It will be held as one of the attractions of our University&rsquo;s campus festival!<br />
+So you can hack and slack. Cool!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Announcing tkbctf4]]></title>
