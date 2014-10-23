@@ -11,7 +11,7 @@ categories:
 Good morning from Japan! This is Christopher, a member of tkbctf4 team.
 
 We are very excited to tell that we are pretty much ready to accept user/team registrations!<br />
-User/Team registrations will be accepted in less than 6 hours from now.
+User/Team registrations will open in less than 6 hours from now.
 
 For more information, please visit [tkbctf4's scoreboard server](http://score.tkbctf.info/posts/1).
 
