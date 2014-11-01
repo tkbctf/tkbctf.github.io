@@ -32,6 +32,6 @@ Here's an official announcement!
 Note: The contents of the online game and the on-site game will be the same.<br />
 In other words, online contestants and on-site contestants will be presented with same missions at the same time.
 
-For more information about the on-site match, please visit the [online check-in page](http://atnd.org/58640).
+For more information about the on-site match, please visit the [online check-in page](https://atnd.org/events/58640).
 
 Thank you for your interest in tkbctf4. Happy Pwnage!
