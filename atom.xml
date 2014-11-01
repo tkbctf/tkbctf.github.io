@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.info/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-10-24T06:43:54+09:00</updated>
+  <updated>2014-11-01T11:29:23+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4 Schedule Announcement]]></title>
+    <link href="http://tkbctf.info/blog/2014/11/tkbctf4-schedule-announcement/"/>
+    <updated>2014-11-01T10:53:28+09:00</updated>
+    <id>http://tkbctf.info/blog/2014/11/tkbctf4-schedule-announcement</id>
+    <content type="html"><![CDATA[<p>Yo! It&rsquo;s Chris here.</p>
+
+<p>I bet many of you have been wondering WHEN exactly tkbctf4 will take place.
+Here&rsquo;s an official announcement!</p>
+
+<p><strong>Online match</strong></p>
+
+<table>
+<thead>
+<tr>
+<th> Starts at </th>
+<th> Suspends at </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 2014-11-02T03:00:00+0000  </td>
+<td> 2014-11-02T15:00:00+0000  </td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<th> Resumes at </th>
+<th> Ends at </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 2014-11-03T01:00:00+0000  </td>
+<td> 2014-11-03T10:00:00+0000  </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><strong>On-site match at Tsukuba University (Simultaneous with the 2nd half of the online match)</strong></p>
+
+<table>
+<thead>
+<tr>
+<th> Starts at  </th>
+<th> Ends at  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 2014-11-03T01:00:00+0000  </td>
+<td> 2014-11-03T10:00:00+0000  </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Note: The contents of the online game and the on-site game will be the same.<br />
+In other words, online contestants and on-site contestants will be presented with same missions at the same time.</p>
+
+<p>For more information about the on-site match, please visit the <a href="http://atnd.org/58640">online check-in page</a>.</p>
+
+<p>Thank you for your interest in tkbctf4. Happy Pwnage!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[tkbctf4 registration will begin!]]></title>
@@ -976,17 +1047,6 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
 <p>We opened tkbctf1 <a href="https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform">registration form</a>!</p>
 
 <p>Registration period ends at <strong>23:59 on May 3 JST</strong>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第1回大会のお知らせ]]></title>
-    <link href="http://tkbctf.info/blog/2013/04/announce-first-contest/"/>
-    <updated>2013-04-12T09:45:00+09:00</updated>
-    <id>http://tkbctf.info/blog/2013/04/announce-first-contest</id>
-    <content type="html"><![CDATA[<p>第1回大会のお知らせを掲載しております。「<a href="http://tkbctf.info/tkbctf1">tkbctf1</a>」をご覧ください。</p>
-
-<p>参加登録に関しては後ほど当Webサイトおよび<a href="https://twitter.com/tkbctf">Twitter上</a>にてお知らせしますのでご確認ください。（※以前案内しておりましたATNDのページは使用しません）</p>
 ]]></content>
   </entry>
   
