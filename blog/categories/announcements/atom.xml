@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Announcements | tkbctf]]></title>
   <link href="http://tkbctf.info/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-11-01T22:59:58+09:00</updated>
+  <updated>2014-11-02T22:51:57+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -57,28 +57,11 @@ Here&rsquo;s an official announcement!</p>
 </table>
 
 
-<p><strong>On-site match at Tsukuba University (Simultaneous with the 2nd half of the online match)</strong></p>
+<p><del><b>On-site match at Tsukuba University (Simultaneous with the 2nd half of the online match)</b></del></p>
 
-<table>
-<thead>
-<tr>
-<th> Starts at  </th>
-<th> Ends at  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> 2014-11-03T01:00:00+0000  </td>
-<td> 2014-11-03T10:00:00+0000  </td>
-</tr>
-</tbody>
-</table>
+<p><strong>OH NO!</strong> On-site match has been cancelled due to lack of participants.</p>
 
-
-<p>Note: The contents of the online game and the on-site game will be the same.<br />
-In other words, online contestants and on-site contestants will be presented with same missions at the same time.</p>
-
-<p>For more information about the on-site match, please visit the <a href="https://atnd.org/events/58640">online check-in page</a>.</p>
+<p>We&rsquo;re very sorry about it. However, online match will be carried out as scheduled.</p>
 
 <p>Thank you for your interest in tkbctf4. Happy Pwnage!</p>
 ]]></content>
