@@ -23,15 +23,11 @@ Here's an official announcement!
 |---|---|
 | 2014-11-03T01:00:00+0000  | 2014-11-03T10:00:00+0000  |
 
-**On-site match at Tsukuba University (Simultaneous with the 2nd half of the online match)**
+<del><b>On-site match at Tsukuba University (Simultaneous with the 2nd half of the online match)</b></del>
 
-| Starts at  | Ends at  |
-|---|---|
-| 2014-11-03T01:00:00+0000  | 2014-11-03T10:00:00+0000  |
+**OH NO!** On-site match has been cancelled due to lack of participants.
 
-Note: The contents of the online game and the on-site game will be the same.<br />
-In other words, online contestants and on-site contestants will be presented with same missions at the same time.
 
-For more information about the on-site match, please visit the [online check-in page](https://atnd.org/events/58640).
+We're very sorry about it. However, online match will be carried out as scheduled.
 
 Thank you for your interest in tkbctf4. Happy Pwnage!
