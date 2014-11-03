@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Announcement | tkbctf]]></title>
   <link href="http://tkbctf.info/blog/categories/announcement/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-11-02T22:51:57+09:00</updated>
+  <updated>2014-11-03T19:03:13+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4-is-over]]></title>
+    <link href="http://tkbctf.info/blog/2014/11/tkbctf4-is-over/"/>
+    <updated>2014-11-03T19:00:00+09:00</updated>
+    <id>http://tkbctf.info/blog/2014/11/tkbctf4-is-over</id>
+    <content type="html"><![CDATA[<h1>tkbctf4 has finished!</h1>
+
+<p>Here are the final TOP 10.</p>
+
+<p><div id='main'>
+<div class='header'>
+<h2>Ranking</h2>
+</div>
+<div class='content'>
+<table class='pure-table pure-table-striped' id='ranking-board'>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>0x0</td>
+<td>2541</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>MMA</td>
+<td>1987</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>dcua</td>
+<td>1870</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>superflip</td>
+<td>1655</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>HackingForSushi</td>
+<td>1461</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>nonbei</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>tuat_mcc</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>竹田氏</td>
+<td>1113</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>encrypti0x0n</td>
+<td>806</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>CureSecure</td>
+<td>800</td>
+</tr>
+</tbody>
+</table>
+</div></p>
+
+<p>Thank you for your interest in tkbctf4.
+We all enjoyed it. We hope you did, too.</p>
+
+<p>Bye for now! Oh, and don&rsquo;t forget to publish writeups!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[About IRC channel etc.]]></title>
@@ -70,27 +154,6 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
 <p>tkbctf3やります！</p>
 
 <p>5/4-5です。時間等は追って発表します。かみんぐすーん</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[tkbctf2終了！]]></title>
-    <link href="http://tkbctf.info/blog/2013/09/tkbctf2-finished/"/>
-    <updated>2013-09-29T21:24:00+09:00</updated>
-    <id>http://tkbctf.info/blog/2013/09/tkbctf2-finished</id>
-    <content type="html"><![CDATA[<p>tkbctf2は終了しました。参加者の皆さんお疲れ様でした。</p>
-
-<p>5位までの最終順位は以下の通りです。</p>
-
-<p><img src="/images/2013/09/ranking.png" alt="tkbctf2 ranking" /></p>
-
-<p>上位に入られた方おめでとうございます！</p>
-
-<p>Jellybeanとscoreは終了まで正答者が出ませんでした。少し時間が足りなかったかもしれません。（もし次回があれば時間配分の参考にします。。。）</p>
-
-<p>時間のある方は是非再チャレンジしてみてください。Write-upは全問題で随時お待ちしております。@tkbctfまでmentionを送る等して頂ければ可能な範囲で紹介します。</p>
-
-<p>12時間お疲れ様でした。ありがとうございました。</p>
 ]]></content>
   </entry>
   

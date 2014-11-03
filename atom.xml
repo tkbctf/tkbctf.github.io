@@ -4,7 +4,7 @@
   <title><![CDATA[tkbctf]]></title>
   <link href="http://tkbctf.info/atom.xml" rel="self"/>
   <link href="http://tkbctf.info/"/>
-  <updated>2014-11-02T22:51:57+09:00</updated>
+  <updated>2014-11-03T19:03:13+09:00</updated>
   <id>http://tkbctf.info/</id>
   <author>
     <name><![CDATA[tkbctf team]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[tkbctf4-is-over]]></title>
+    <link href="http://tkbctf.info/blog/2014/11/tkbctf4-is-over/"/>
+    <updated>2014-11-03T19:00:00+09:00</updated>
+    <id>http://tkbctf.info/blog/2014/11/tkbctf4-is-over</id>
+    <content type="html"><![CDATA[<h1>tkbctf4 has finished!</h1>
+
+<p>Here are the final TOP 10.</p>
+
+<p><div id='main'>
+<div class='header'>
+<h2>Ranking</h2>
+</div>
+<div class='content'>
+<table class='pure-table pure-table-striped' id='ranking-board'>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>0x0</td>
+<td>2541</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>MMA</td>
+<td>1987</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>dcua</td>
+<td>1870</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>superflip</td>
+<td>1655</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>HackingForSushi</td>
+<td>1461</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>nonbei</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>tuat_mcc</td>
+<td>1200</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>竹田氏</td>
+<td>1113</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>encrypti0x0n</td>
+<td>806</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>CureSecure</td>
+<td>800</td>
+</tr>
+</tbody>
+</table>
+</div></p>
+
+<p>Thank you for your interest in tkbctf4.
+We all enjoyed it. We hope you did, too.</p>
+
+<p>Bye for now! Oh, and don&rsquo;t forget to publish writeups!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[tkbctf4 Schedule Announcement]]></title>
@@ -1015,21 +1099,6 @@ tkbctf3 starts at <strong>2014/05/04 12:00 JST</strong> and ends at <strong>2014
 <p>You must have got a mail from the list.</p>
 
 <p>If not, please give us (@tkbctf) mention or email tkbctf at gmail d0t com.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[tkbctf1登録受付開始!]]></title>
-    <link href="http://tkbctf.info/blog/2013/04/tkbctf1-registration-start/"/>
-    <updated>2013-04-12T12:16:00+09:00</updated>
-    <id>http://tkbctf.info/blog/2013/04/tkbctf1-registration-start</id>
-    <content type="html"><![CDATA[<p>tkbctf1の登録受付を開始しました。tkbctf1に参加する方は<a href="https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform">Register</a>から登録をお願いします。</p>
-
-<p>ATNDで登録した人ももう一度こちらで登録をお願いします。登録期限は<strong>05/03 23:59 JST</strong>です。</p>
-
-<p>We opened tkbctf1 <a href="https://docs.google.com/forms/d/1oLykJlBtmmizxIsb9ifwIvd2p0HnQriaVqR9fOc6cnM/viewform">registration form</a>!</p>
-
-<p>Registration period ends at <strong>23:59 on May 3 JST</strong>.</p>
 ]]></content>
   </entry>
   
