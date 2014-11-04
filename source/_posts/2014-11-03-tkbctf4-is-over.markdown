@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tkbctf4-is-over"
+title: "tkbctf4 is over"
 date: 2014-11-03 19:00:00 +0900
 comments: true
 categories: 
