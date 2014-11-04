@@ -35,6 +35,16 @@ Address: 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan
 
 During the interval (2014-11-02 15:00 (UTC) - 2014-11-03 01:00 (UTC)), all the servers except for the score server will be shut down. The score server won't be shut down, but you can't submit any flags.
 
+# Challenges Archive
+
+We have [the official repository on github](https://github.com/tkbctf/tkbctf4). Some challenges' binary or source code is available here.
+
+# Score Server Application
+
+[mayth/parasol](https://github.com/mayth/parasol) (see `tkbctf4` tag)
+
+For participants: If you have any ideas to improve the score server, please create an issue or contact the author ([@maytheplic](https://twitter.com/maytheplic)). Pull-reqs are also welcome, of course :-)
+
 # Result
 
 | Rank | Name               | Point |
