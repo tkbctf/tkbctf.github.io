@@ -35,6 +35,17 @@ Address: 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan
 
 During the interval (2014-11-02 15:00 (UTC) - 2014-11-03 01:00 (UTC)), all the servers except for the score server will be shut down. The score server won't be shut down, but you can't submit any flags.
 
+# Organizers
+
+* Christopher H Smith (@x86\_64)
+* Hidekazu Kobayashi (@KOBA789)
+* Mei Akizuru (@maytheplic)
+* op (@6f70)
+* Yoshimura Yuu (@\_yyu\_)
+* Yuta KUWAHARA (@yuscarlet)
+* Yutaka WATANABE (@ytn86)
+* Yuto Maeda (@xrekkusu)
+
 # Challenges Archive
 
 We have [the official repository on github](https://github.com/tkbctf/tkbctf4). Some challenges' binary or source code is available here.
@@ -120,5 +131,3 @@ For participants: If you have any ideas to improve the score server, please crea
 | 69th | aaaa               | 0     |
 | 70th | Tuliper            | 0     |
 | 71st | aozisosan          | 0     |
-
-
