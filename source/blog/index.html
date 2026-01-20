@@ -4,7 +4,7 @@ layout: default
 
 {% assign index = true %}
 
-  {% for post in paginator.posts %}
+  {% for post in site.posts limit:10 %}
   {% assign content = post.content %}
   <article class="listing">
     {% include blog/post/article.html %}
@@ -13,11 +13,7 @@ layout: default
 {% endfor %}
 
   <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="btn pull-left" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-
-    {% if paginator.previous_page %}
-    <a class="btn pull-right" href="{{paginator.previous_page}}">Newer &rarr;</a>
+    {% if site.posts.size > 10 %}
+      <a class="btn pull-left" href="/blog/page/2/">&larr; Older</a>
     {% endif %}
   </div>

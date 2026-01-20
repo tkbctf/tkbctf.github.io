@@ -15,10 +15,10 @@ hero_unit: true
 
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="btn pull-left" href="{{paginator.next_page}}">&larr; Older</a>
+      <a class="btn pull-left" href="{{ paginator.next_page }}">&larr; Older</a>
     {% endif %}
 
     {% if paginator.previous_page %}
-    <a class="btn pull-right" href="{{paginator.previous_page}}">Newer &rarr;</a>
+    <a class="btn pull-right" href="{{ paginator.previous_page }}">Newer &rarr;</a>
     {% endif %}
   </div>
