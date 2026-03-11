@@ -19,7 +19,7 @@ Online Jeopardy style CTF
 
 # Score Server
 
-TBD
+https://alpacahack.com/ctfs/tkbctf5
 
 # Organizers
 
